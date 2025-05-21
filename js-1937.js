@@ -1,4 +1,3 @@
-<script>
 (function() {
   const COOKIE_NAME = ".UnifyInverse";
   const EXPECTED_VALUE = "XNSS-HSJW-3NGU-8XTJ-7EIQ-72IU-2YNV-3L4Y-N9TT-9G0A-B7FQ-RANC//)8V)CC3[k6Hju+J%E^9!hx?pN_42*e!m$3Fe)8V)CC3[k6Hj*3.-]N}/(ia//BGG-TEK-A-LHD-FME-A//739-JEE-895-346-FRW-387";
@@ -49,4 +48,3 @@
     `;
   }
 })();
-</script>
